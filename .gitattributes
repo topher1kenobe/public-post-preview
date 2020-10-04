@@ -1,6 +1,13 @@
-.gitignore export-ignore
+.github export-ignore
+.wordpress-org export-ignore
+.distignore export-ignore
+.editorconfig export-ignore
+.eslintignore export-ignore
+.eslintrc.js export-ignore
 .gitattributes export-ignore
-.babelrc export-ignore
-webpack.config.js export-ignore
+.gitignore export-ignore
+.wp-env.json export-ignore
+babel.config.js export-ignore
 package.json export-ignore
 package-lock.json export-ignore
+webpack.config.js export-ignore
